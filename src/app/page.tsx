@@ -14,10 +14,12 @@ export default function Home() {
           <li>Next.js</li>
           <li>TypeScript</li>
           <li>JavaScript</li>
+          <li>Node.js</li>
           <li>HTML</li>
           <li>CSS</li>
           <li>Python3</li>
           <li>MySQL</li>
+          <li>PostgreSQL</li>
           <li>Docker</li>
           <li>Git</li>
           <li>GitHub</li>
@@ -27,8 +29,8 @@ export default function Home() {
         <div id="menu">
           <div id="left">
             <h3>cat</h3>
-            <img src="https://yuta.p-codes.dev/public_image/reo.jpg" alt="reo" width="30%" height="30%" />
-            <img src="https://yuta.p-codes.dev/public_image/left.jpg" width="30%" height="30%" />
+            <Image src="https://yuta.p-codes.dev/public_image/reo.jpg" alt="reo" height={300} width={300} />
+            <Image src="https://yuta.p-codes.dev/public_image/left.jpg" alt="left" height={300} width={300} />
           </div>
         </div>
       </aside>
