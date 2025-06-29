@@ -42,4 +42,55 @@ next-env.d.ts
 .wrangler
 .dev.vars*
 
+# cloudflare generated files
+cloudflare-env.d.ts
+
+# editor
 .vscode
+.cursor
+CLAUDE.md
+
+# additional common ignores
+# logs
+*.log
+logs/
+
+# runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# temp files
+*.tmp
+*.temp
+.tmp/
+.temp/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# backup files
+*.bak
+*.backup
+*~
+

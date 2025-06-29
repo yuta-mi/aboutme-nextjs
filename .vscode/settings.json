@@ -1,5 +1,10 @@
 {
 	"files.associations": {
 		"wrangler.json": "jsonc"
+	},
+	"markdownlint.config": {
+		"MD032": false,
+		"MD022": false,
+		"MD040": false
 	}
 }
