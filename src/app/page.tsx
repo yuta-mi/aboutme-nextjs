@@ -74,8 +74,8 @@ export default function Home() {
                   <div className="grid gap-6">
                     <div className="relative group">
                       <div className="absolute inset-0 bg-gray-100/50 rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                      <Image 
-                        src="https://yuta.p-codes.dev/public_image/reo.jpg" 
+                      <Image
+                        src="https://yuta-mi.github.io/public_image/reo.jpg" 
                         alt="愛猫レオ" 
                         height={300} 
                         width={300}
@@ -90,7 +90,7 @@ export default function Home() {
                     <div className="relative group">
                       <div className="absolute inset-0 bg-gray-100/50 rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                       <Image 
-                        src="https://yuta.p-codes.dev/public_image/left.jpg" 
+                        src="https://yuta-mi.github.io/public_image/left.jpg" 
                         alt="ひだりちゃん" 
                         height={300} 
                         width={300}
